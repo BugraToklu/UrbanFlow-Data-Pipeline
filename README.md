@@ -12,6 +12,8 @@ The pipeline consists of four main stages:
 3.  **Storage:** Processed geospatial data is stored in **PostgreSQL (PostGIS)**.
 4.  **Visualization:** A real-time dashboard built with **Streamlit** & **PyDeck** monitors traffic density and anomalies.
 
+![UrbanFlow Dashboard](assets/dasboard_preview.PNG)
+
 ```mermaid
 graph LR
     A[Taxi Simulator] -->|JSON Stream| B(Apache Kafka)
