@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+
+# IDE Settings
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+
+# Mac OS
+.DS_Store
+
+postgres_data/
+checkpoint/

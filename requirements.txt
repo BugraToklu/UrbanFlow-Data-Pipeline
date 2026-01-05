@@ -1,0 +1,7 @@
+kafka-python
+pyspark==3.5.0
+streamlit
+pydeck
+pandas
+psycopg2-binary
+faker
